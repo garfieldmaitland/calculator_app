@@ -1,5 +1,5 @@
 # Install necessary libraries
-pip install gradio
+!pip install gradio
 
 # Import necessary libraries
 import gradio as gr
